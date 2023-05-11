@@ -1,7 +1,5 @@
-
-
-*{margin:0;padding:0}
-body{font-family:georgia !important; transition:all 0.5s ease;-webkit-transition:all 0.5s ease;-moz-transition:all 0.5s ease;background:#000;}
+*{margin:0; padding:0}
+body{font-family:georgia !important;-webkit-transition:all 0.5s ease;-moz-transition:all 0.5s ease;  transition:all 0.5s ease; background:#000;}
 button, input, optgroup, select, textarea{font-family:georgia !important;}
 body, html{height:100%;}
 img{max-width:100%}
